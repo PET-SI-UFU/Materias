@@ -1,5 +1,5 @@
 # ED-I
-Repositório dedicado a guardar as provas e trabalhos de Estrutura de Dados 1
+Repositório dedicado a guardar listas e slides de Estrutura de Dados 1
 
 ### Listas
 
