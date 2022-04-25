@@ -1,0 +1,46 @@
+/* Arquivo style.css da página...*/
+
+body {
+    /*Regras de texto*/
+    font-family: Helvetica, Arial, sans-serif;
+
+    /*Regras para tamanho*/
+    margin: 0%;
+    
+    /*Regras de Decoração*/
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header{
+    /*Regras para texto*/
+    font-size: 150%;
+    text-align: center;
+    
+    /*Cores*/
+    color: #EBEBEA;
+    background-color: #797979;
+
+    /*Regras para tamanho*/
+    width: 100%; 
+    top: 0%;
+    padding: 1%;
+    position: sticky;
+}
+
+main {
+    /*Regras para texto*/
+    font-size: 110%;
+    line-height: 30px;
+
+    /*Cores*/
+    background-color: #EBEBEA;
+    
+    /*Regras para tamanho*/
+    width: 45%;
+    padding: 2%;
+    border: 1px solid #9B9B9B;
+    margin: 0% auto;
+
+}
