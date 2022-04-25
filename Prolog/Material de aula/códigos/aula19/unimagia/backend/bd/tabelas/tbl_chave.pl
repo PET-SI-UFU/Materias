@@ -1,0 +1,13 @@
+created(1623449266.421989).
+assert(chave(função,3)).
+assert(chave(bookmark,2)).
+assert(chave(usuário,8)).
+assert(chave(usuário_função,5)).
+retractall(chave(usuário,_),1).
+assert(chave(usuário,9)).
+retractall(chave(usuário_função,_),1).
+assert(chave(usuário_função,6)).
+retractall(chave(usuário,_),1).
+assert(chave(usuário,10)).
+retractall(chave(usuário_função,_),1).
+assert(chave(usuário_função,7)).
