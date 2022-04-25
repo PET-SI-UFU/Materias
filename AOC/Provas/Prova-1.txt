@@ -1,0 +1,35 @@
+1.A década de 40 foi uma época excitante na história da computação. Nela o computador eletromecânico foi inventado e von Neumann propôs uma arquitetura batizada com seu nome que revolucionou os computadores.  Qual foi o grande “insight” da arquitetura von Neumann e como ela alterou a história dos computadores? Descreva ainda quais são os três módulos fundamentais da arquitetura von Neumann.
+
+
+2.Explique o que significam os termos "Arquitetura"  e "organização" de computadores.
+
+
+
+3.Desenvolva um programa que leia 42 inteiros e armazene os valores lidos em um array de 42 inteiros inicializado inicialmente com zeros em todas as posições. A seguir o programa deve chamar três funções, uma que calcula a soma de todos os elementos do array, outra que retorne o menor valor e outra que retorne o maior valor. Imprima todos os três resultados das funções na saída padrão. Salve e restaure da pilha todas as variáveis pertinentes (salvamento/restauração de contexto). Caso queira, uma macro pode ser usada para salvar/restaurar o contexto. Neste caso desenvolva a macro. Anexe seu programa resultante <arquivo>.asm 
+
+
+4.Pseudo instruções são instruções que não são suportadas diretamente em hardware. Elas existem no contexto do montador (assembler) e tem como objetivo tornar a vida do programador mais simples. Como exemplo temos a instrução li <reg>, val que atribui um valor imediato a um registrador (ex. li $s0, 10 que na realidade será traduzida pelo montador para addiu $s0, $zero, 10). Forneça uma possível versão com instruções reais para as seguintes pseudo instruções:
+
+a) move $s0, $s1 
+
+b) mul $t1, $t2, 42 
+		      
+c) la 0x4488AABC
+
+
+5.Converta as seguintes instruções de código de montagem para código de máquina. Identifique o tipo (R, I ou J) de cada instrução e finalmente forneça tanto o código de máquina em binário e em hexadecimal para cada instrução:
+
+a) lw  $s0, 0 ($s1)
+
+
+b)sw  $ra, 40($sp)
+	
+
+c) beq $s0, $s1, LABEL  (Label se encontra localizado 5 instruções a frente da instrução atual)
+
+
+d) jal  0x4488ABDC
+
+
+e) add $s2, $s0, $s1
+
