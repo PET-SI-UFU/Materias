@@ -6,4 +6,4 @@ Os temas abordados incluem uma revisão da matemática vista no ensino médio, d
 e segunda ordem, limites e mais.
 
 ### Notion
-https://www.notion.so/Matem-tica-I-19430d308e69457c9722f4105d123bce
+https://fantastic-flute-efd.notion.site/Matem-tica-I-19430d308e69457c9722f4105d123bce
