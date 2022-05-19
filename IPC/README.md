@@ -4,3 +4,6 @@
 <a href='http://www.cplusplus.com/reference/'> Documentação da linguagem C</a> em ingles
 
 <a href='https://maratona.algartelecom.com.br/portal/uberhub-code-club/'>uberhub code club</a>
+
+### Notion
+https://www.notion.so/Introdu-o-Programa-o-de-Computadores-947dfbac8fdb4890a66619334d8d14b6
