@@ -7,5 +7,5 @@ Esses diretórios guardam os data path de algumas instruções e os códigos em 
 o curso, respectivamente.
 
 ### Notion
-https://www.notion.so/Arquitetura-e-Organiza-o-de-Computadores-198e3bbf14ce462bbb19a513cb6a90a5
+https://fantastic-flute-efd.notion.site/Arquitetura-e-Organiza-o-de-Computadores-198e3bbf14ce462bbb19a513cb6a90a5
 
