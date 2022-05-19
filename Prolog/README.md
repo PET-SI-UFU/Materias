@@ -8,3 +8,6 @@ https://swish.swi-prolog.org/p/Aula12a.swinb
 A documentação da linguagem está disponível neste endereço:
 
 https://www.swi-prolog.org/
+
+### Notion
+https://www.notion.so/Programa-o-L-gica-01a3692e55d24870920c56a3baabf2ca
