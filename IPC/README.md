@@ -6,4 +6,4 @@
 <a href='https://maratona.algartelecom.com.br/portal/uberhub-code-club/'>uberhub code club</a>
 
 ### Notion
-https://www.notion.so/Introdu-o-Programa-o-de-Computadores-947dfbac8fdb4890a66619334d8d14b6
+https://fantastic-flute-efd.notion.site/Introdu-o-Programa-o-de-Computadores-947dfbac8fdb4890a66619334d8d14b6
