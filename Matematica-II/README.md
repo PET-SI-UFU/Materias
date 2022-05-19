@@ -5,4 +5,4 @@ Você encontra no diretório Aulas os resumos das aulas e no Listas as atividade
 Os temas abordados incluem equações diferenciais, séries e transformadas de Laplace.
 
 ### Notion
-https://www.notion.so/Matem-tica-II-97f4d97afc6e421b86302692bf169d6c
+https://fantastic-flute-efd.notion.site/Matem-tica-II-97f4d97afc6e421b86302692bf169d6c
